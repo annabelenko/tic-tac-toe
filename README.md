@@ -7,7 +7,7 @@ A classic tic-tac-toe game built with HTML, CSS, and JavaScript. Clean, responsi
 <!-- Add your demo gif here -->
 ![Tic-Tac-Toe Demo](demo.gif)
 
-[**Play Live Demo**](https://yourusername.github.io/tic-tac-toe)
+[**Play Live Demo**](https://annabelenko.github.io/tic-tac-toe)
 
 ## ✨ Features
 
@@ -29,13 +29,13 @@ A classic tic-tac-toe game built with HTML, CSS, and JavaScript. Clean, responsi
 
 ## 🚀 Live Demo
 
-This game is deployed on GitHub Pages: [Play Now](https://yourusername.github.io/tic-tac-toe)
+This game is deployed on GitHub Pages: [Play Now](https://annabelenko.github.io/tic-tac-toe)
 
 ## 💻 Run Locally
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe.git
+   git clone https://github.com/annabelenko/tic-tac-toe.git
    ```
 
 2. Navigate to the project directory:
@@ -43,7 +43,7 @@ This game is deployed on GitHub Pages: [Play Now](https://yourusername.github.io
    cd tic-tac-toe
    ```
 
-3. Open `tictactoe.html` in your web browser or use a local server:
+3. Open `index.html` in your web browser or use a local server:
    ```bash
    # Using Python
    python -m http.server 8000
@@ -52,7 +52,7 @@ This game is deployed on GitHub Pages: [Play Now](https://yourusername.github.io
    npx serve .
    
    # Or simply open the file
-   open tictactoe.html
+   open index.html
    ```
 
 ## 🛠️ Technologies Used
@@ -65,7 +65,7 @@ This game is deployed on GitHub Pages: [Play Now](https://yourusername.github.io
 
 ```
 tic-tac-toe/
-├── tictactoe.html    # Main HTML file
+├── index.html        # Main HTML file
 ├── tictactoe.css     # Styles
 ├── tictactoe.js      # Game logic
 └── README.md         # Project documentation
@@ -80,14 +80,10 @@ The game implements:
 - Game state management (active/inactive)
 - Draw detection when board is full
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
+**Anna Belenko**
+- GitHub: [@annabelenko](https://github.com/annabelenko)
 
 ---
 
