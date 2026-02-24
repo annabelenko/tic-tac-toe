@@ -4,7 +4,6 @@ A classic tic-tac-toe game built with HTML, CSS, and JavaScript. Clean, responsi
 
 ## 🎮 Demo
 
-<!-- Add your demo gif here -->
 ![Tic-Tac-Toe Demo](demo.gif)
 
 [**Play Live Demo**](https://annabelenko.github.io/tic-tac-toe)
